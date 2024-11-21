@@ -1,0 +1,7 @@
+.background{
+    background-image: url('https://images.pexels.com/photos/1712733/pexels-photo-1712733.jpeg');
+    background-size: cover;
+}
+.subBack{
+    background-color: rgba(0, 0, 0, 0.548);
+}
